@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    
+   background-color: darkblue;  
+      
+}
+
+h2{
+    font-weight: normal;
+}
+
+#cartaoDeVisitas{
+    background-image: url('assets/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 1px;
+    padding-left: 20px;   
+    width: 400px;
+    height: 200px;    
+    font-family: 'Courier New';   
+    margin: auto;
+    
+    
+            
+}
+li{
+    font-size: 18.8px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+#instagram{
+    list-style-image: url('assets/Insta.png');
+}
+
+#twitter{
+    list-style-image: url('assets/Twitter.png');
+}
+
+#youtube{
+    list-style-image: url('assets/Youtube.png');
+}
